@@ -1,4 +1,4 @@
-# 📅 Day 2 - Basics of DevOps (Foundation)
+# 📅 Day 01 - Basics of DevOps (Foundation)
 
 ## 📚 Topics Covered
 
